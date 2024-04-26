@@ -1,0 +1,34 @@
+{
+    type: Drill
+    name: Advanced Laser Drill
+    description: Faster Laser Drill.
+    size: 3
+    tier: 4
+    hasPower: true
+    drillTime: 250.0
+    rotateSpeed: 2.3
+    updateEffect: pulverizeMedium
+    drillEffect: mineBig
+    liquidCapacity: 40
+    itemCapacity: 15
+
+    requirements: [
+        plastanium/50
+        silicon/50
+        titanium/45
+        graphite/30
+    ]
+
+    consumes: {
+        power: 88
+        liquid: {
+            liquid: cryofluid
+            amount: 1
+            optional: true
+            booster: true
+        }
+    }
+
+    category: production
+    research: laser-drill
+}

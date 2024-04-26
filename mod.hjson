@@ -1,0 +1,10 @@
+{
+    name: "footerman"
+    displayName: "A mod."
+    author: FooterMan
+    description: "Footer's mod"
+    version: "1.0"
+    minGameVersion: "146"
+    dependencies: []
+    hidden: false
+}
