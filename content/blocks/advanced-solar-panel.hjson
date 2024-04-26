@@ -1,5 +1,7 @@
 {
     type: SolarGenerator
+    name: Advanced Solar Panel
+    description: Better Solar Panel.
     powerProduction: 0.4
     size: 1
     requirements: [
