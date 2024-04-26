@@ -3,7 +3,7 @@
     displayName: "A mod."
     author: FooterMan
     description: "Footer's mod"
-    version: "1.0"
+    version: "1.1"
     minGameVersion: "146"
     dependencies: []
     hidden: false
