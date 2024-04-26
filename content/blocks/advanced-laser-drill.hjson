@@ -5,8 +5,8 @@
     size: 3
     tier: 4
     hasPower: true
-    drillTime: 220.0
-    rotateSpeed: 2.3
+    drillTime: 200.0
+    rotateSpeed: 2.5
     updateEffect: pulverizeMedium
     drillEffect: mineBig
     liquidCapacity: 40
@@ -20,7 +20,7 @@
     ]
 
     consumes: {
-        power: 1.40
+        power: 1.45
         liquid: {
             liquid: cryofluid
             amount: 1
