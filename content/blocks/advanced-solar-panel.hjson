@@ -1,0 +1,14 @@
+{
+    type: SolarGenerator
+    powerProduction: 0.4
+    size: 1
+    requirements: [
+        silicon/20
+        titanium/20
+        plastanium/5
+        metaglass/15
+    ]
+
+    category: power
+    research: solar-panel
+}
